@@ -24,3 +24,12 @@ Console.WriteLine(guotien);
 d1 = 6;
 double guotien2 = i1 / d1;
 Console.WriteLine(guotien2);
+
+
+
+double a = 1;
+double b = 2;
+double c = 3;
+double d = 4;
+double result = (a * b) / (c + d);
+Console.WriteLine(result);
