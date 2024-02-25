@@ -17,3 +17,10 @@ Console.WriteLine(sum3);
 Console.WriteLine(product1);
 Console.WriteLine(product2);
 Console.WriteLine(product3);
+
+int guotien = i1 / i2;
+Console.WriteLine(guotien);
+
+d1 = 6;
+double guotien2 = i1 / d1;
+Console.WriteLine(guotien2);
